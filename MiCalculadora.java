@@ -3,7 +3,7 @@ public class MiCalculadora {
     // Este es el método principal, el punto de entrada del programa
     public static void main(String[] args) {
 
-        int suma = 7 + 7;
+        int suma = 9 + 9;
 
     }
 }
