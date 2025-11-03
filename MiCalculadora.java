@@ -7,7 +7,7 @@ public class MiCalculadora {
         int resta = 10-10;
         int multiplicacion = 5*5;
         float division = 5/5;
-	float division2 = 10/10;
+	float division2 = 10/2;
         System.out.println(suma);
         System.out.println(resta);
         System.out.println(multiplicacion);        
